@@ -12,12 +12,12 @@
 <h2>Desenvolvimento de sistemas</h2>
 <p>Atuando tanto na coleta de informações para desenvolver o projeto e a implentação do sistema.</p>
 <p>Em programação, haveria muito a dizer a respeito de realizações, mas vou citar apenas alguns:</p>
-  * M&oacute;dulo paa sistema hospitalar que permitiu médicos e pacientes executarem upload/download de documentos via web. Foi criado em forma de plugin para um CMS popular, foi compartilhado entre os vários hospitais da rede;</li>
+  * M&oacute;dulo paa sistema hospitalar que permitiu médicos e pacientes executarem upload/download de documentos via web. Foi criado em forma de plugin para um CMS popular, foi compartilhado entre os vários hospitais da rede;<br>
   * Desenvolvimento do zero de váriados sistemas de custos, por exemplo, sistema de custos para linha de produção não seriada, seriada com ou sem metodologia just'n time;</li>
-  * Sistemas de folha de pagamento e rh;</li>
-  * CRM Proprietário criado do zero para atuar desde a parte comercial, financeira, almoxarife/suprimentos e fábrica;</li>
-  * Criação de programas auxiliares para dar suporte aos procedimentos de TI, por exemplo, desenvolvi muitos scripts em bash destinados a tornar a interface de servidores atraentes a profissionais que fossem operá-los sem precisarem de conhecimentos avançados para administrar serviços de proxy, firewall, web intranet,  etc... economizando tempo e recursos para a equipe e a empresa;</li>
-  * Também criei programas para interagir com outros programas, por exemplo, importar lista de entidades de um desenho de AutoCAD para dentro de um sistema de orçamentos, isso permitiu reduzir o prazo de entrega de orçamentos e economizar tempo nas etapas seguintes caso o orçamento fosse aprovado.</li>        
+  * Sistemas de folha de pagamento e rh;<br>
+  * CRM Proprietário criado do zero para atuar desde a parte comercial, financeira, almoxarife/suprimentos e fábrica;<br>
+  * Criação de programas auxiliares para dar suporte aos procedimentos de TI, por exemplo, desenvolvi muitos scripts em bash destinados a tornar a interface de servidores atraentes a profissionais que fossem operá-los sem precisarem de conhecimentos avançados para administrar serviços de proxy, firewall, web intranet,  etc... economizando tempo e recursos para a equipe e a empresa;<br>
+  * Também criei programas para interagir com outros programas, por exemplo, importar lista de entidades de um desenho de AutoCAD para dentro de um sistema de orçamentos, isso permitiu reduzir o prazo de entrega de orçamentos e economizar tempo nas etapas seguintes caso o orçamento fosse aprovado.<br>        
 
 <p>Foram muitos os programas que desenvolvi e em diferentes linguagens de programação, uma boa parte delas iniciando-se do zero e também atualizando programas legados. Poucos especialistas sabem como lidar com sistemas em funcionamento e gradualmente atualizá-los sem estourar tempo e dinheiro. Fico muito orgulhoso em saber que sistemas criados com mais de 20 anos estão em funcionamento até os dias atuais.</p>
 <h2>Habilidades</h2>
