@@ -42,7 +42,6 @@
   <li>Estou procurando me especializar em node.js e vue.js para aplicações web backend e frontend.</li>
 </ul>
 <h2>Mais sobre mim</h2>
-<p>Me divirto em em todas essas areas, mas amo mesmo desenvolver sistemas porque dá acesso a minha criatividade. </p>
-<p>Quando eu digo 'divertir' é isso mesmo, criando programas desde meu primeiro 8 bits Apple][ e não parei mais.</p>
-<p>Gosto de colaborar com software livre e compartilhar meu conhecimento, meu nickname é conhecido em diversos foruns de tecnologia.</p>
+<p>Me divirto em em todas essas areas, mas amo mesmo desenvolver sistemas porque dá acesso a minha criatividade. Ter que lidar com processos que são chatos e ninguém quer por a mão é o que mais fiz em meu tempo como analista de sistemas</p>
+<p>Gosto de colaborar com software livre no meu tempo livro e compartilhar meu conhecimento. Meu nickname(hamacker) é conhecido em diversos foruns de tecnologia.</p>
 <p>Fique a vontade para entrar em contato, mas vou logo dizendo que não dá para trabalhar se não tiver 'cofee-free', pois pagar pelo meu próprio café, me levaria a falência ;-)</p>
