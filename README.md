@@ -3,8 +3,8 @@
 <h2>Servidores</h2>
 <p>Minha experiencia como sysadmin na criação de programas/scripts na automação de tarefas para a continuidade de servidores atuando em 99.99% (em especial com servidores virtualizados com XenServer) e também a criação de programas para administrar serviços instalados neles.</p>
 <h2>Redes</h2>
-<p>Na area de redes, tenho pouco a dizer, mas conheço bem redes cabeadas desde o finado 100VG até a FastEthernet atual. Redes de FO, incuindo DIO, Crimpagem  e patch panel também me são familiares. </p>
-<p>Eu procuro me afastar dessa área de infra porque amo desenvolver sistemas, mas vez ou outra meu conhecimento é requisitado nessa área.</p>
+<p>Na area de redes, tenho pouco a dizer, mas conheço bem redes cabeadas desde o finado 100VG até a FastEthernet atual. Redes de FO, DIO, Switchs, Gateways, Load Balance,  Proxy, scripts de autoconfiguração de browser também me são familiares. </p>
+<p>Eu procuro me afastar dessa área de infra porque amo mais desenvolver sistemas, mas vez ou outra meu conhecimento é requisitado nessa área.</p>
 <h2>Sistemas operacionais e administração de redes</h2>
 <p>Proficiente desde finado NetWare, passando por sistemas Unix(Solaris), Linux(Redhat e debian) e Windows. Meu conhecimento não é rasteiro, já implantei diversos serviços como postfix, samba, balanceamento de carga, GPOs e afins e usando sistemas de scripts bash ou vbs/cmd para criar a infra-estrutura necessária para ser administrado remotamente por ssh ou telnet.</p>
 <h2>Banco de dados</h2>
