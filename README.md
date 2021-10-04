@@ -12,33 +12,34 @@
 <h2>Desenvolvimento de sistemas</h2>
 <p>Atuando tanto na coleta de informações para desenvolver o projeto e a implentação do sistema.</p>
 <p>Em programação, haveria muito a dizer a respeito de realizações, mas vou citar apenas alguns:</p>
-  * M&oacute;dulo paa sistema hospitalar que permitiu médicos e pacientes executarem upload/download de documentos via web. Foi criado em forma de plugin para um CMS popular, foi compartilhado entre os vários hospitais da rede;<br>
-  * Desenvolvimento do zero de váriados sistemas de custos, por exemplo, sistema de custos para linha de produção não seriada, seriada com ou sem metodologia just'n time;</li>
-  * Sistemas de folha de pagamento e rh;<br>
-  * CRM Proprietário criado do zero para atuar desde a parte comercial, financeira, almoxarife/suprimentos e fábrica;<br>
-  * Criação de programas auxiliares para dar suporte aos procedimentos de TI, por exemplo, desenvolvi muitos scripts em bash destinados a tornar a interface de servidores atraentes a profissionais que fossem operá-los sem precisarem de conhecimentos avançados para administrar serviços de proxy, firewall, web intranet,  etc... economizando tempo e recursos para a equipe e a empresa;<br>
-  * Também criei programas para interagir com outros programas, por exemplo, importar lista de entidades de um desenho de AutoCAD para dentro de um sistema de orçamentos, isso permitiu reduzir o prazo de entrega de orçamentos e economizar tempo nas etapas seguintes caso o orçamento fosse aprovado.<br>        
-
+<ul>
+  <li>* M&oacute;dulo paa sistema hospitalar que permitiu médicos e pacientes executarem upload/download de documentos via web. Foi criado em forma de plugin para um CMS popular, foi compartilhado entre os vários hospitais da rede;</li>
+  <li>* Desenvolvimento do zero de váriados sistemas de custos, por exemplo, sistema de custos para linha de produção não seriada, seriada com ou sem metodologia just'n time;</li>
+  <li>* Sistemas de folha de pagamento e rh;</li>
+  <li>* CRM Proprietário criado do zero para atuar desde a parte comercial, financeira, almoxarife/suprimentos e fábrica;</li>
+  <li>* Criação de programas auxiliares para dar suporte aos procedimentos de TI, por exemplo, desenvolvi muitos scripts em bash destinados a tornar a interface de servidores atraentes a profissionais que fossem operá-los sem precisarem de conhecimentos avançados para administrar serviços de proxy, firewall, web intranet,  etc... economizando tempo e recursos para a equipe e a empresa;</li>
+  * Também criei programas para interagir com outros programas, por exemplo, importar lista de entidades de um desenho de AutoCAD para dentro de um sistema de orçamentos, isso permitiu reduzir o prazo de entrega de orçamentos e economizar tempo nas etapas seguintes caso o orçamento fosse aprovado.</li>        
+</ul>
 <p>Foram muitos os programas que desenvolvi e em diferentes linguagens de programação, uma boa parte delas iniciando-se do zero e também atualizando programas legados. Poucos especialistas sabem como lidar com sistemas em funcionamento e gradualmente atualizá-los sem estourar tempo e dinheiro. Fico muito orgulhoso em saber que sistemas criados com mais de 20 anos estão em funcionamento até os dias atuais.</p>
 <h2>Habilidades</h2>
 <p>Proficiente nos seguintes cenários:</p>
 <ul>
-  <li>Linguagem Delphi, incluindo variações como Lazarus e Turbo Pascal. Programação Multitier (datasnap) e microserviços (web).</li>
-  <li>Linguagem Python como backend para automatizar servidores e processos.</li>
-  <li>Linguagem JavaScript(ecmascript) em frontend e com menos enfase em backend(node.js).</li>
-  <li>Sistema operacional Linux e Windows, incluindo ambiente multiterminal e servidores.</li>
-  <li>Ambiente virtualizado Xen, VirtualBox e Microsoft Hypervisor e terminal(ssh).</li>
-  <li>Linguagem Bash, programação de scripts e também modo interativo.</li>
-  <li>Linguagem PHP, contudo com mais enfase em programação procedural do que orientação a objetos.</li>
-  <li>Documentos web formatados e programados em HTML5, CSS3 e JavaScript(ecmascript).</li>
-  <li>Linguagem SQL ANSI</li>
-  <li>Bancos de Dados MSSQL Server (administração e desenvolvimento), Oracle(desenvolvimento), PostgreSQL (desenvolvimento) e FirebirdSQL (administração e desenvolvimento), MySQL(desenvolvimento) e flat-tables como xbase, paradox e msaccess.</li>
+  <li>* Linguagem Delphi, incluindo variações como Lazarus e Turbo Pascal. Programação Multitier (datasnap) e microserviços (web).</li>
+  <li>* Linguagem Python como backend para automatizar servidores e processos.</li>
+  <li>* Linguagem JavaScript(ecmascript) em frontend e com menos enfase em backend(node.js).</li>
+  <li>* Sistema operacional Linux e Windows, incluindo ambiente multiterminal e servidores.</li>
+  <li>* Ambiente virtualizado Xen, VirtualBox e Microsoft Hypervisor e terminal(ssh).</li>
+  <li>* Linguagem Bash, programação de scripts e também modo interativo.</li>
+  <li>* Linguagem PHP, contudo com mais enfase em programação procedural do que orientação a objetos.</li>
+  <li>* Documentos web formatados e programados em HTML5, CSS3 e JavaScript(ecmascript).</li>
+  <li>* Linguagem SQL ANSI</li>
+  <li>* Bancos de Dados MSSQL Server (administração e desenvolvimento), Oracle(desenvolvimento), PostgreSQL (desenvolvimento) e FirebirdSQL (administração e desenvolvimento), MySQL(desenvolvimento) e flat-tables como xbase, paradox e msaccess.</li>
 </ul>
 <p>Conhecimentos intermediário e básico nos seguintes cenários:</p>
 <ul>
-  <li>Git, o necessário para versionamento e branchs</li>
-  <li>Linguagens como c/c++, golang(go) e javalang(java). O suficiente para corrigir falhas de compilação devido a mudanças de versão do compilador, dependências ou reprogramar diretivas de compilação</li>
-  <li>Estou procurando me especializar em node.js e vue.js para aplicações web backend e frontend.</li>
+  <li>* Git, o necessário para versionamento e branchs</li>
+  <li>* Linguagens como c/c++, golang(go) e javalang(java). O suficiente para corrigir falhas de compilação devido a mudanças de versão do compilador, dependências ou reprogramar diretivas de compilação</li>
+  <li>* Estou procurando me especializar em node.js e vue.js para aplicações web backend e frontend.</li>
 </ul>
 <h2>Mais sobre mim</h2>
 <p>Me divirto em em todas essas areas, mas amo mesmo desenvolver sistemas porque dá acesso a minha criatividade. Ter que lidar com processos que são chatos e ninguém quer por a mão é o que mais fiz em meu tempo como analista de sistemas</p>
