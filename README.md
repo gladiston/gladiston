@@ -1,4 +1,4 @@
-<p>Olá, meu nome é Gladiston.</p>
+<p>Olá, meu nome é Gladiston e meu nick na internet é Hamacker.</p>
 <p>Sou desenvolvedor de multiplas tecnologias, incluindo banco de dados, programação, servidores, virtualização e redes. Por isso, já atuei e ainda atuo nas operações de sysadmin, DBA, analise de sistemas e programação. Abaixo ou categorizei minhas atividades e experiências.</p>
 <h2>Servidores</h2>
 <p>Minha experiencia como sysadmin na criação de programas/scripts na automação de tarefas para a continuidade de servidores atuando em 99.99% (em especial com servidores virtualizados com XenServer) e também a criação de programas para administrar serviços instalados neles.</p>
