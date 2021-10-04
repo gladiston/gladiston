@@ -20,7 +20,7 @@
   <li>Criação de programas auxiliares para dar suporte aos procedimentos de TI, por exemplo, desenvolvi muitos scripts em bash destinados a tornar a interface de servidores atraentes a profissionais que fossem operá-los sem precisarem de conhecimentos avançados para administrar serviços de proxy, firewall, web intranet,  etc... economizando tempo e recursos para a equipe e a empresa;</li>
   <li>Também criei programas para interagir com outros programas, por exemplo, importar lista de entidades de um desenho de AutoCAD para dentro de um sistema de orçamentos, isso permitiu reduzir o prazo de entrega de orçamentos e economizar tempo nas etapas seguintes caso o orçamento fosse aprovado.</li>        
 </ul>
-<p>Foram muitos os programas que desenvolvi e em diferentes linguagens de programação, uma boa parte delas iniciando-se do zero e também atualizando programas legadas. Poucos especialistas sabem como lidar com sistemas em funcionamento e gradualmente atualizá-los. Fico muito orgulhoso em saber que sistemas criados com mais de 20 anos estão em funcionamento até os dias atuais.</p>
+<p>Foram muitos os programas que desenvolvi e em diferentes linguagens de programação, uma boa parte delas iniciando-se do zero e também atualizando programas legados. Poucos especialistas sabem como lidar com sistemas em funcionamento e gradualmente atualizá-los sem estourar tempo e dinheiro. Fico muito orgulhoso em saber que sistemas criados com mais de 20 anos estão em funcionamento até os dias atuais.</p>
 <h2>Habilidades</h2>
 <p>Proficiente nos seguintes cenários:</p>
 <ul>
