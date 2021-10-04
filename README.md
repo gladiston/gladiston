@@ -13,7 +13,7 @@
 <p>Atuando tanto na coleta de informações para desenvolver o projeto e a implentação do sistema.</p>
 <p>Em programação, haveria muito a dizer a respeito de realizações, mas vou citar apenas alguns:</p>
 <ul>
-  <li>Módulo paa sistema hospitalar que permitiu médicos e pacientes executarem upload/download de documentos via web. Foi criado em forma de plugin para um CMS popular, foi compartilhado entre os vários hospitais da rede;</li>
+  <li>M&oacute;dulo paa sistema hospitalar que permitiu médicos e pacientes executarem upload/download de documentos via web. Foi criado em forma de plugin para um CMS popular, foi compartilhado entre os vários hospitais da rede;</li>
   <li>Desenvolvimento do zero de váriados sistemas de custos, por exemplo, sistema de custos para linha de produção não seriada, seriada com ou sem metodologia just'n time;</li>
   <li>Sistemas de folha de pagamento e rh;</li>
   <li>CRM Proprietário criado do zero para atuar desde a parte comercial, financeira, almoxarife/suprimentos e fábrica;</li>
