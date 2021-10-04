@@ -8,7 +8,7 @@
 <h2>Sistemas operacionais e administração de redes</h2>
 <p>Proficiente desde finado NetWare, passando por sistemas Unix(Solaris), Linux(Redhat e debian) e Windows. Meu conhecimento não é rasteiro, já implantei diversos serviços como postfix, samba, balanceamento de carga, GPOs e afins e usando sistemas de scripts bash ou vbs/cmd para criar a infra-estrutura necessária para ser administrado remotamente por ssh ou telnet.</p>
 <h2>Banco de dados</h2>
-<p>Em banco de dados sou proficiente como DBA com MSSQL e FirebirdSQL, incluindo reparação de dados corrompidos, tunning e planejamento de backup. No que se refere a desenvolvimento, qualquer banco de dados compativel com SQL Ansi me será familiar.</p>
+<p>Em banco de dados sou proficiente como DBA com MSSQL desde a versão 6.0(joinventure com a Sybase) e FirebirdSQL 3+, incluindo reparação de dados corrompidos, tunning e planejamento de backup e limpeza de dados. No que diz respeito a tunning, é mais do que ter a configuração certa, é também saber quando usar indices clusterizados ou views materializadas para maior desempeho. No que se refere a desenvolvimento, qualquer banco de dados que for compativel com o padrão SQL Ansi me será familiar.</p>
 <h2>Desenvolvimento de sistemas</h2>
 <p>Atuando tanto na coleta de informações para desenvolver o projeto e a implentação do sistema.</p>
 <p>Em programação, haveria muito a dizer a respeito de realizações, mas vou citar apenas alguns:</p>
